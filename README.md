@@ -6,8 +6,9 @@ This is my basic tmux config. I'm still learning tmux so this will change as I i
 git clone https://github.com/jimeh/tmux-themepack.git ~/.tmux-themepack`
 ```
 - Make sure to install [tpm](https://github.com/tmux-plugins/tpm) to allow for tmux plugins. You'll need to run 
-```[your prefix] + I` to install the plugins after installing tpm.
-
+```bash
+[your prefix] + I` to install the plugins after installing tpm.
+```
 Note: You may want to run
 ```bash
 chmod u+x starttmux
